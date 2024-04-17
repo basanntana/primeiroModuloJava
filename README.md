@@ -8,3 +8,5 @@ conteúdos vistos foram:
 * Text Blocks
 * Switch Case
 * Estruturas condicionais e de repetições.
+
+E por fim, o simples projeto de uma conta bancária que unifica todos os conteúdos vistos. 
