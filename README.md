@@ -1,4 +1,4 @@
-Exercícios e desafios realizados ao longo do curso de Java do bootcamp Oracle Next Education, alguns dos
+Exercícios e desafios realizados ao longo do curso de Java: criando sua primeira aplicação da Oracle Next Education, alguns dos
 conteúdos vistos foram:
 
 * Operadores (lógicos, relacionais, unários e aritiméticos )
